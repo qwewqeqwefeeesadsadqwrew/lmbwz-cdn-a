@@ -1,0 +1,69 @@
+
+role_skin_7.png
+size: 349, 268
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+beibao
+  rotate: true
+  xy: 267, 20
+  size: 119, 80
+  orig: 161, 99
+  offset: 21, 9
+  index: -1
+bq1
+  rotate: false
+  xy: 159, 68
+  size: 106, 71
+  orig: 106, 82
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 159, 141
+  size: 125, 116
+  orig: 347, 260
+  offset: 113, 72
+  index: -1
+shou1
+  rotate: false
+  xy: 277, 182
+  size: 60, 84
+  orig: 98, 176
+  offset: 21, 47
+  index: -1
+shou2
+  rotate: true
+  xy: 167, 4
+  size: 62, 83
+  orig: 135, 244
+  offset: 29, 79
+  index: -1
+tou
+  rotate: true
+  xy: 2, 60
+  size: 206, 155
+  orig: 331, 288
+  offset: 59, 83
+  index: -1
+tui
+  rotate: true
+  xy: 2, 15
+  size: 43, 82
+  orig: 88, 191
+  offset: 20, 56
+  index: -1
+tui2
+  rotate: true
+  xy: 86, 15
+  size: 43, 79
+  orig: 96, 209
+  offset: 27, 64
+  index: -1
+yingzi
+  rotate: false
+  xy: 252, 2
+  size: 69, 16
+  orig: 199, 46
+  offset: 65, 15
+  index: -1

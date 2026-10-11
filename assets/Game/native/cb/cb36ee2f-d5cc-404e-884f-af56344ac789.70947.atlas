@@ -1,0 +1,76 @@
+
+pet_12.png
+size: 1116, 617
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ed
+  rotate: false
+  xy: 1066, 358
+  size: 36, 28
+  orig: 137, 60
+  offset: 52, 17
+  index: -1
+ed2
+  rotate: false
+  xy: 1066, 388
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 1009, 245
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 773, 30
+  size: 167, 147
+  orig: 173, 163
+  offset: 0, 0
+  index: -1
+skill
+  rotate: false
+  xy: 2, 2
+  size: 769, 613
+  orig: 769, 613
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 773, 383
+  size: 291, 232
+  orig: 574, 398
+  offset: 133, 139
+  index: -1
+tou
+  rotate: false
+  xy: 773, 199
+  size: 234, 182
+  orig: 234, 182
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 922, 10
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: false
+  xy: 1009, 166
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 1066, 423
+  size: 192, 31
+  orig: 293, 154
+  offset: 50, 20
+  index: -1

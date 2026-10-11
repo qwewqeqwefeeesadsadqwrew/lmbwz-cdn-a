@@ -1,0 +1,90 @@
+
+role_6.png
+size: 1273, 530
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bai1
+  rotate: false
+  xy: 859, 247
+  size: 61, 281
+  orig: 61, 281
+  offset: 0, 0
+  index: -1
+bai2
+  rotate: true
+  xy: 925, 3
+  size: 61, 281
+  orig: 61, 281
+  offset: 0, 0
+  index: -1
+bq1
+  rotate: true
+  xy: 843, 34
+  size: 104, 80
+  orig: 212, 164
+  offset: 54, 42
+  index: -1
+shen
+  rotate: true
+  xy: 925, 139
+  size: 174, 341
+  orig: 693, 519
+  offset: 259, 34
+  index: -1
+shou1
+  rotate: true
+  xy: 515, 10
+  size: 128, 165
+  orig: 196, 351
+  offset: 54, 100
+  index: -1
+shou2
+  rotate: true
+  xy: 682, 13
+  size: 125, 159
+  orig: 270, 487
+  offset: 52, 168
+  index: -1
+tou
+  rotate: false
+  xy: 2, 6
+  size: 478, 522
+  orig: 662, 576
+  offset: 63, 54
+  index: -1
+toufa
+  rotate: true
+  xy: 925, 315
+  size: 213, 346
+  orig: 213, 346
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 925, 66
+  size: 71, 155
+  orig: 175, 381
+  offset: 52, 113
+  index: -1
+tui2
+  rotate: true
+  xy: 1082, 66
+  size: 71, 155
+  orig: 191, 417
+  offset: 60, 131
+  index: -1
+wuqi
+  rotate: true
+  xy: 482, 140
+  size: 388, 375
+  orig: 388, 375
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 482, 2
+  size: 136, 31
+  orig: 398, 91
+  offset: 131, 30
+  index: -1

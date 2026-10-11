@@ -1,0 +1,62 @@
+
+role_skin_9.png
+size: 583, 234
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bq1
+  rotate: true
+  xy: 377, 8
+  size: 106, 63
+  orig: 106, 82
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 377, 116
+  size: 125, 116
+  orig: 347, 260
+  offset: 113, 72
+  index: -1
+shou1
+  rotate: false
+  xy: 504, 107
+  size: 62, 125
+  orig: 132, 238
+  offset: 43, 112
+  index: -1
+shou2
+  rotate: true
+  xy: 209, 2
+  size: 230, 166
+  orig: 526, 442
+  offset: 205, 230
+  index: -1
+tou
+  rotate: true
+  xy: 2, 26
+  size: 206, 205
+  orig: 331, 288
+  offset: 59, 33
+  index: -1
+tui
+  rotate: false
+  xy: 442, 18
+  size: 68, 87
+  orig: 88, 191
+  offset: 20, 53
+  index: -1
+tui2
+  rotate: false
+  xy: 512, 25
+  size: 69, 80
+  orig: 96, 209
+  offset: 1, 63
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 8
+  size: 69, 16
+  orig: 199, 46
+  offset: 65, 15
+  index: -1

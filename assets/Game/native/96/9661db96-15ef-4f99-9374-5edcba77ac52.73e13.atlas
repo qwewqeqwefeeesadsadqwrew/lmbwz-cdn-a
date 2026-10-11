@@ -1,0 +1,76 @@
+
+pet_9.png
+size: 666, 287
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jiao1
+  rotate: false
+  xy: 641, 257
+  size: 23, 28
+  orig: 111, 105
+  offset: 44, 33
+  index: -1
+jiao2
+  rotate: false
+  xy: 641, 227
+  size: 22, 28
+  orig: 173, 163
+  offset: 75, 62
+  index: -1
+shou1
+  rotate: false
+  xy: 609, 31
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 552, 81
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+skill
+  rotate: false
+  xy: 2, 2
+  size: 355, 283
+  orig: 355, 283
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 552, 149
+  size: 57, 111
+  orig: 574, 398
+  offset: 258, 144
+  index: -1
+tou
+  rotate: true
+  xy: 359, 38
+  size: 247, 191
+  orig: 247, 191
+  offset: 0, 0
+  index: -1
+wb
+  rotate: true
+  xy: 553, 15
+  size: 64, 54
+  orig: 176, 148
+  offset: 56, 47
+  index: -1
+yachi
+  rotate: false
+  xy: 552, 208
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 359, 5
+  size: 192, 31
+  orig: 293, 154
+  offset: 50, 20
+  index: -1

@@ -1,0 +1,20 @@
+
+skill_14.png
+size: 645, 479
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gousuo
+  rotate: true
+  xy: 2, 2
+  size: 161, 607
+  orig: 161, 607
+  offset: 0, 0
+  index: -1
+tx
+  rotate: true
+  xy: 2, 165
+  size: 312, 641
+  orig: 312, 641
+  offset: 0, 0
+  index: -1

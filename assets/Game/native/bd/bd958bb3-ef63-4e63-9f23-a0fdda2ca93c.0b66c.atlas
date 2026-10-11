@@ -1,0 +1,104 @@
+
+role_12.png
+size: 1040, 364
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dangban
+  rotate: true
+  xy: 770, 77
+  size: 111, 68
+  orig: 146, 153
+  offset: 22, 43
+  index: -1
+dangban2
+  rotate: false
+  xy: 698, 2
+  size: 56, 64
+  orig: 178, 270
+  offset: 61, 104
+  index: -1
+dangban3
+  rotate: false
+  xy: 756, 2
+  size: 56, 64
+  orig: 232, 352
+  offset: 90, 147
+  index: -1
+gong
+  rotate: false
+  xy: 2, 12
+  size: 479, 350
+  orig: 479, 350
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 698, 68
+  size: 120, 70
+  orig: 213, 198
+  offset: 56, 69
+  index: -1
+maozi
+  rotate: true
+  xy: 926, 222
+  size: 140, 112
+  orig: 423, 191
+  offset: 141, 43
+  index: -1
+mianju
+  rotate: false
+  xy: 917, 3
+  size: 80, 31
+  orig: 82, 31
+  offset: 1, 0
+  index: -1
+shen
+  rotate: false
+  xy: 698, 190
+  size: 226, 172
+  orig: 347, 260
+  offset: 67, 36
+  index: -1
+shou1
+  rotate: true
+  xy: 926, 131
+  size: 89, 108
+  orig: 98, 176
+  offset: 6, 36
+  index: -1
+shou2
+  rotate: false
+  xy: 922, 36
+  size: 73, 93
+  orig: 135, 244
+  offset: 26, 78
+  index: -1
+tou
+  rotate: true
+  xy: 483, 31
+  size: 331, 213
+  orig: 331, 288
+  offset: 0, 69
+  index: -1
+tui
+  rotate: false
+  xy: 840, 8
+  size: 75, 89
+  orig: 88, 191
+  offset: 8, 52
+  index: -1
+tui2
+  rotate: false
+  xy: 840, 99
+  size: 80, 89
+  orig: 96, 209
+  offset: 7, 56
+  index: -1
+yingzi
+  rotate: false
+  xy: 483, 13
+  size: 69, 16
+  orig: 199, 46
+  offset: 65, 15
+  index: -1

@@ -1,0 +1,76 @@
+
+role_3.png
+size: 692, 217
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bq1
+  rotate: false
+  xy: 335, 9
+  size: 52, 40
+  orig: 106, 82
+  offset: 27, 21
+  index: -1
+fz
+  rotate: false
+  xy: 634, 149
+  size: 56, 66
+  orig: 240, 175
+  offset: 96, 53
+  index: -1
+mujian
+  rotate: false
+  xy: 335, 51
+  size: 167, 164
+  orig: 215, 242
+  offset: 21, 36
+  index: -1
+shen
+  rotate: true
+  xy: 504, 85
+  size: 130, 128
+  orig: 347, 260
+  offset: 107, 72
+  index: -1
+shou1
+  rotate: true
+  xy: 504, 25
+  size: 58, 82
+  orig: 98, 176
+  offset: 28, 48
+  index: -1
+shou2
+  rotate: true
+  xy: 588, 2
+  size: 43, 76
+  orig: 135, 244
+  offset: 46, 84
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 331, 213
+  orig: 331, 288
+  offset: 0, 69
+  index: -1
+tui
+  rotate: true
+  xy: 588, 47
+  size: 36, 78
+  orig: 88, 191
+  offset: 26, 56
+  index: -1
+tui2
+  rotate: true
+  xy: 389, 13
+  size: 36, 78
+  orig: 96, 209
+  offset: 30, 65
+  index: -1
+yingzi
+  rotate: true
+  xy: 668, 78
+  size: 69, 16
+  orig: 199, 46
+  offset: 65, 15
+  index: -1

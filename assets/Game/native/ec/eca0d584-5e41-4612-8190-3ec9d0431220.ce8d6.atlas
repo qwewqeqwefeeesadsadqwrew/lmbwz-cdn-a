@@ -1,0 +1,69 @@
+
+pet_3.png
+size: 287, 604
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ed
+  rotate: false
+  xy: 79, 38
+  size: 43, 38
+  orig: 94, 84
+  offset: 25, 23
+  index: -1
+ed2
+  rotate: false
+  xy: 124, 39
+  size: 42, 37
+  orig: 100, 89
+  offset: 29, 26
+  index: -1
+jiao1
+  rotate: true
+  xy: 178, 55
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 168, 16
+  size: 39, 37
+  orig: 173, 163
+  offset: 67, 63
+  index: -1
+skill
+  rotate: true
+  xy: 2, 247
+  size: 355, 283
+  orig: 355, 283
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 78
+  size: 174, 134
+  orig: 574, 398
+  offset: 226, 136
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 2
+  size: 75, 74
+  orig: 127, 126
+  offset: 26, 26
+  index: -1
+yachi
+  rotate: false
+  xy: 196, 168
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 214
+  size: 192, 31
+  orig: 293, 154
+  offset: 50, 20
+  index: -1

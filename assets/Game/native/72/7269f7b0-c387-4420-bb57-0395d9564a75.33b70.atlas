@@ -1,0 +1,132 @@
+
+pet_101.png
+size: 1033, 405
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+baoxiang1
+  rotate: false
+  xy: 489, 69
+  size: 283, 154
+  orig: 284, 155
+  offset: 0, 1
+  index: -1
+baoxiang2
+  rotate: false
+  xy: 489, 225
+  size: 304, 178
+  orig: 304, 182
+  offset: 0, 1
+  index: -1
+boss_101-skill_end_0
+  rotate: false
+  xy: 2, 2
+  size: 485, 401
+  orig: 485, 401
+  offset: 0, 0
+  index: -1
+dang1
+  rotate: false
+  xy: 489, 7
+  size: 166, 60
+  orig: 166, 60
+  offset: 0, 0
+  index: -1
+dang2
+  rotate: true
+  xy: 994, 14
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 970, 32
+  size: 88, 22
+  orig: 88, 22
+  offset: 0, 0
+  index: -1
+mao dai1
+  rotate: true
+  xy: 968, 193
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+mao dai2
+  rotate: true
+  xy: 968, 122
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 774, 197
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 795, 114
+  size: 171, 128
+  orig: 171, 128
+  offset: 0, 0
+  index: -1
+shou1a
+  rotate: true
+  xy: 774, 10
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+shou1b
+  rotate: true
+  xy: 994, 82
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+shou2a
+  rotate: false
+  xy: 882, 14
+  size: 86, 98
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+shou2b
+  rotate: false
+  xy: 994, 43
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 795, 244
+  size: 171, 159
+  orig: 171, 159
+  offset: 0, 0
+  index: -1
+tui1a
+  rotate: true
+  xy: 657, 12
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+tui1b
+  rotate: true
+  xy: 732, 22
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 968, 270
+  size: 133, 51
+  orig: 133, 51
+  offset: 0, 0
+  index: -1

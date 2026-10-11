@@ -1,0 +1,76 @@
+
+pet_10.png
+size: 616, 293
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jiao1
+  rotate: true
+  xy: 490, 8
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 563, 139
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: false
+  xy: 546, 75
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+jiao4
+  rotate: false
+  xy: 563, 210
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+skill
+  rotate: false
+  xy: 2, 9
+  size: 354, 282
+  orig: 355, 283
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 358, 169
+  size: 203, 122
+  orig: 574, 398
+  offset: 185, 144
+  index: -1
+tou
+  rotate: false
+  xy: 358, 48
+  size: 97, 86
+  orig: 205, 195
+  offset: 46, 51
+  index: -1
+wb
+  rotate: false
+  xy: 358, 2
+  size: 130, 44
+  orig: 213, 152
+  offset: 31, 72
+  index: -1
+yachi
+  rotate: false
+  xy: 457, 57
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 358, 136
+  size: 192, 31
+  orig: 293, 154
+  offset: 50, 20
+  index: -1

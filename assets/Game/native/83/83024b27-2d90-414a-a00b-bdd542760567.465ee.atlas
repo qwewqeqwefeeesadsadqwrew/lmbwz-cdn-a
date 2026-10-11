@@ -1,0 +1,62 @@
+
+role_skin_14_1.png
+size: 460, 254
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bq1
+  rotate: true
+  xy: 2, 2
+  size: 42, 146
+  orig: 461, 358
+  offset: 210, 46
+  index: -1
+maozi
+  rotate: true
+  xy: 221, 9
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 159, 86
+  size: 150, 166
+  orig: 347, 260
+  offset: 100, 35
+  index: -1
+shou1
+  rotate: false
+  xy: 311, 104
+  size: 74, 148
+  orig: 139, 249
+  offset: 37, 25
+  index: -1
+shou2
+  rotate: false
+  xy: 387, 116
+  size: 71, 136
+  orig: 192, 347
+  offset: 55, 83
+  index: -1
+tou
+  rotate: true
+  xy: 2, 46
+  size: 206, 155
+  orig: 331, 288
+  offset: 59, 83
+  index: -1
+toufa
+  rotate: true
+  xy: 325, 2
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 150, 28
+  size: 69, 16
+  orig: 199, 46
+  offset: 65, 15
+  index: -1

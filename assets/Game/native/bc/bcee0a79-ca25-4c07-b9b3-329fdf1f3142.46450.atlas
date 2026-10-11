@@ -1,0 +1,41 @@
+
+pet_7.png
+size: 453, 218
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jian
+  rotate: true
+  xy: 360, 92
+  size: 124, 91
+  orig: 124, 91
+  offset: 0, 0
+  index: -1
+skill
+  rotate: false
+  xy: 2, 2
+  size: 214, 214
+  orig: 355, 283
+  offset: 70, 35
+  index: -1
+st
+  rotate: true
+  xy: 251, 26
+  size: 190, 107
+  orig: 574, 398
+  offset: 192, 152
+  index: -1
+yachi
+  rotate: true
+  xy: 360, 3
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 218, 24
+  size: 192, 31
+  orig: 293, 154
+  offset: 50, 20
+  index: -1
