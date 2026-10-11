@@ -1,0 +1,48 @@
+
+pet_6.png
+size: 540, 296
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+skill
+  rotate: false
+  xy: 2, 12
+  size: 355, 282
+  orig: 355, 283
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 359, 91
+  size: 203, 122
+  orig: 574, 398
+  offset: 185, 144
+  index: -1
+tou
+  rotate: false
+  xy: 359, 3
+  size: 97, 86
+  orig: 205, 195
+  offset: 46, 51
+  index: -1
+wb
+  rotate: true
+  xy: 516, 185
+  size: 109, 22
+  orig: 213, 152
+  offset: 53, 65
+  index: -1
+yachi
+  rotate: true
+  xy: 458, 2
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 483, 102
+  size: 192, 31
+  orig: 293, 154
+  offset: 50, 20
+  index: -1

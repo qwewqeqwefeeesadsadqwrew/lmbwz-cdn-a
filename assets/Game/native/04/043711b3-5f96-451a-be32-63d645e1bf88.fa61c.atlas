@@ -1,0 +1,48 @@
+
+pet_8.png
+size: 545, 287
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jiao1
+  rotate: true
+  xy: 438, 29
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 392, 101
+  size: 39, 37
+  orig: 173, 163
+  offset: 67, 63
+  index: -1
+skill
+  rotate: false
+  xy: 2, 2
+  size: 355, 283
+  orig: 355, 283
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 392, 142
+  size: 143, 116
+  orig: 574, 398
+  offset: 223, 147
+  index: -1
+yachi
+  rotate: true
+  xy: 359, 4
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 359, 93
+  size: 192, 31
+  orig: 293, 154
+  offset: 50, 20
+  index: -1
