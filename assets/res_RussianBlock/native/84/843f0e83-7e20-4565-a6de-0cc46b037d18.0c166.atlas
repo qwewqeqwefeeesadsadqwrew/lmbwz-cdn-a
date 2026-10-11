@@ -1,0 +1,146 @@
+
+mechanic.png
+size: 570, 395
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+5mutou/futou1
+  rotate: true
+  xy: 2, 2
+  size: 391, 329
+  orig: 391, 329
+  offset: 0, 0
+  index: -1
+5mutou/kuzi
+  rotate: true
+  xy: 495, 289
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+5mutou/shou1
+  rotate: true
+  xy: 333, 93
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+5mutou/shou2
+  rotate: true
+  xy: 495, 206
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+5mutou/st
+  rotate: true
+  xy: 333, 166
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+5mutou/tou
+  rotate: true
+  xy: 333, 272
+  size: 121, 160
+  orig: 186, 209
+  offset: 31, 41
+  index: -1
+5mutou/tx/wx (1)
+  rotate: false
+  xy: 476, 154
+  size: 73, 50
+  orig: 77, 77
+  offset: 0, 10
+  index: -1
+5mutou/tx/wx (2)
+  rotate: false
+  xy: 438, 73
+  size: 74, 59
+  orig: 78, 77
+  offset: 3, 8
+  index: -1
+5mutou/tx/wx (3)
+  rotate: true
+  xy: 438, 8
+  size: 63, 57
+  orig: 77, 77
+  offset: 7, 9
+  index: -1
+5mutou/tx/wx (4)
+  rotate: false
+  xy: 333, 34
+  size: 64, 57
+  orig: 77, 78
+  offset: 4, 15
+  index: -1
+5mutou/tx/wx (5)
+  rotate: true
+  xy: 497, 19
+  size: 52, 49
+  orig: 78, 78
+  offset: 6, 24
+  index: -1
+5mutou/tx/wx (6)
+  rotate: false
+  xy: 514, 107
+  size: 49, 45
+  orig: 77, 78
+  offset: 7, 28
+  index: -1
+5mutou/tx/wx (7)
+  rotate: true
+  xy: 410, 121
+  size: 43, 26
+  orig: 77, 77
+  offset: 8, 30
+  index: -1
+5mutou/tx/wx (8)
+  rotate: true
+  xy: 553, 353
+  size: 40, 15
+  orig: 78, 77
+  offset: 10, 36
+  index: -1
+5mutou/tx/wx (9)
+  rotate: false
+  xy: 553, 341
+  size: 13, 10
+  orig: 77, 77
+  offset: 10, 39
+  index: -1
+damuzhi
+  rotate: false
+  xy: 410, 87
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+jiao_1
+  rotate: true
+  xy: 514, 73
+  size: 32, 52
+  orig: 45, 52
+  offset: 11, 0
+  index: -1
+jiao_2
+  rotate: false
+  xy: 399, 31
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: true
+  xy: 333, 7
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 443, 134
+  size: 136, 31
+  orig: 136, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+tunshi.png
+size: 600,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shang
+  rotate: true
+  xy: 404, 47
+  size: 260, 194
+  orig: 272, 210
+  offset: 7, 2
+  index: -1
+xia
+  rotate: false
+  xy: 2, 2
+  size: 400, 305
+  orig: 400, 322
+  offset: 0, 3
+  index: -1

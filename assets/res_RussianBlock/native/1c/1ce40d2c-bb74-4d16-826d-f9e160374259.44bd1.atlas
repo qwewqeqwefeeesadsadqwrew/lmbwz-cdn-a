@@ -1,0 +1,76 @@
+
+jingbi.png
+size: 470, 155
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+6jinse/kuzi
+  rotate: true
+  xy: 329, 49
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+6jinse/shou1
+  rotate: false
+  xy: 387, 6
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+6jinse/shou2
+  rotate: false
+  xy: 387, 83
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+6jinse/st
+  rotate: false
+  xy: 223, 45
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+6jinse/tou
+  rotate: false
+  xy: 2, 2
+  size: 186, 151
+  orig: 186, 209
+  offset: 0, 58
+  index: -1
+damuzhi
+  rotate: false
+  xy: 333, 15
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+jiao_1
+  rotate: true
+  xy: 279, 11
+  size: 32, 52
+  orig: 45, 52
+  offset: 11, 0
+  index: -1
+jiao_2
+  rotate: true
+  xy: 223, 6
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 360, 15
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 190, 17
+  size: 136, 31
+  orig: 136, 31
+  offset: 0, 0
+  index: -1

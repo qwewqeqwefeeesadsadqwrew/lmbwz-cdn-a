@@ -1,0 +1,132 @@
+
+xiaochou.png
+size: 338, 877
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+damuzhi
+  rotate: false
+  xy: 58, 18
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: true
+  xy: 2, 13
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: true
+  xy: 214, 31
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+xiaochou/jiao_1
+  rotate: true
+  xy: 162, 24
+  size: 32, 50
+  orig: 43, 50
+  offset: 10, 0
+  index: -1
+xiaochou/kuzi
+  rotate: true
+  xy: 263, 2
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+xiaochou/shou1
+  rotate: true
+  xy: 85, 51
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+xiaochou/shou2
+  rotate: false
+  xy: 2, 52
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+xiaochou/st
+  rotate: true
+  xy: 178, 140
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+xiaochou/tou
+  rotate: true
+  xy: 182, 246
+  size: 186, 151
+  orig: 186, 209
+  offset: 0, 58
+  index: -1
+xiaochou/tx/dian (1)
+  rotate: true
+  xy: 178, 58
+  size: 80, 83
+  orig: 256, 256
+  offset: 88, 87
+  index: -1
+xiaochou/tx/dian (2)
+  rotate: true
+  xy: 200, 594
+  size: 133, 136
+  orig: 256, 256
+  offset: 63, 53
+  index: -1
+xiaochou/tx/dian (3)
+  rotate: true
+  xy: 2, 124
+  size: 165, 174
+  orig: 256, 256
+  offset: 46, 39
+  index: -1
+xiaochou/tx/dian (4)
+  rotate: false
+  xy: 2, 291
+  size: 178, 194
+  orig: 256, 256
+  offset: 42, 32
+  index: -1
+xiaochou/tx/dian (5)
+  rotate: false
+  xy: 2, 487
+  size: 186, 198
+  orig: 256, 256
+  offset: 38, 32
+  index: -1
+xiaochou/tx/dian (6)
+  rotate: true
+  xy: 2, 687
+  size: 188, 196
+  orig: 256, 256
+  offset: 38, 37
+  index: -1
+xiaochou/tx/dian (7)
+  rotate: false
+  xy: 190, 434
+  size: 144, 158
+  orig: 256, 256
+  offset: 81, 39
+  index: -1
+xiaochou/tx/dian (8)
+  rotate: false
+  xy: 200, 729
+  size: 135, 146
+  orig: 256, 256
+  offset: 85, 51
+  index: -1
+yingzi
+  rotate: true
+  xy: 288, 108
+  size: 136, 31
+  orig: 136, 31
+  offset: 0, 0
+  index: -1

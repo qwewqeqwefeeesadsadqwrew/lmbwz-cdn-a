@@ -1,0 +1,90 @@
+
+dianji.png
+size: 1550,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi (1)
+  rotate: false
+  xy: 2, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (10)
+  rotate: false
+  xy: 1034, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (11)
+  rotate: false
+  xy: 1292, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (12)
+  rotate: false
+  xy: 1292, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (2)
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (3)
+  rotate: false
+  xy: 260, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (4)
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (5)
+  rotate: false
+  xy: 518, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (6)
+  rotate: false
+  xy: 518, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (7)
+  rotate: false
+  xy: 776, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (8)
+  rotate: false
+  xy: 776, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi (9)
+  rotate: false
+  xy: 1034, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

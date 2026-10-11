@@ -1,0 +1,293 @@
+
+soldier.png
+size: 1912, 234
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1zhuantou/futou1
+  rotate: false
+  xy: 989, 99
+  size: 122, 133
+  orig: 391, 329
+  offset: 113, 70
+  index: -1
+1zhuantou/kuzi
+  rotate: false
+  xy: 374, 14
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+1zhuantou/shou1
+  rotate: false
+  xy: 1751, 157
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+1zhuantou/shou2
+  rotate: true
+  xy: 1084, 16
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+1zhuantou/st
+  rotate: false
+  xy: 1361, 124
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+1zhuantou/tou
+  rotate: false
+  xy: 374, 72
+  size: 121, 160
+  orig: 186, 209
+  offset: 31, 41
+  index: -1
+2tuoxie/futou1
+  rotate: false
+  xy: 1113, 99
+  size: 122, 133
+  orig: 391, 329
+  offset: 113, 70
+  index: -1
+2tuoxie/kuzi
+  rotate: false
+  xy: 480, 14
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+2tuoxie/shou1
+  rotate: false
+  xy: 1762, 80
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+2tuoxie/shou2
+  rotate: true
+  xy: 1156, 16
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+2tuoxie/st
+  rotate: false
+  xy: 1372, 14
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+2tuoxie/tou
+  rotate: false
+  xy: 497, 72
+  size: 121, 160
+  orig: 186, 209
+  offset: 31, 41
+  index: -1
+3huojiu/futou1
+  rotate: false
+  xy: 2, 36
+  size: 122, 196
+  orig: 391, 329
+  offset: 113, 70
+  index: -1
+3huojiu/kuzi
+  rotate: false
+  xy: 586, 14
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+3huojiu/shou1
+  rotate: false
+  xy: 1824, 157
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+3huojiu/shou2
+  rotate: true
+  xy: 1228, 16
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+3huojiu/st
+  rotate: false
+  xy: 1467, 124
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+3huojiu/tou
+  rotate: false
+  xy: 620, 72
+  size: 121, 160
+  orig: 186, 209
+  offset: 31, 41
+  index: -1
+4shitou/futou1
+  rotate: false
+  xy: 126, 36
+  size: 122, 196
+  orig: 391, 329
+  offset: 113, 70
+  index: -1
+4shitou/kuzi
+  rotate: false
+  xy: 692, 14
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+4shitou/shou1
+  rotate: false
+  xy: 1762, 3
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+4shitou/shou2
+  rotate: true
+  xy: 1300, 16
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+4shitou/st
+  rotate: false
+  xy: 1478, 14
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+4shitou/tou
+  rotate: false
+  xy: 743, 72
+  size: 121, 160
+  orig: 186, 209
+  offset: 31, 41
+  index: -1
+6jinse/futou1
+  rotate: false
+  xy: 250, 36
+  size: 122, 196
+  orig: 391, 329
+  offset: 113, 70
+  index: -1
+6jinse/kuzi
+  rotate: false
+  xy: 798, 14
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+6jinse/shou1
+  rotate: true
+  xy: 1835, 84
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+6jinse/shou2
+  rotate: true
+  xy: 1679, 151
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+6jinse/st
+  rotate: false
+  xy: 1573, 124
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+6jinse/tou
+  rotate: false
+  xy: 866, 72
+  size: 121, 160
+  orig: 186, 209
+  offset: 31, 41
+  index: -1
+damuzhi
+  rotate: false
+  xy: 194, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+jiao_1
+  rotate: true
+  xy: 140, 2
+  size: 32, 52
+  orig: 45, 52
+  offset: 11, 0
+  index: -1
+jiao_2
+  rotate: false
+  xy: 1690, 12
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 904, 14
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 1835, 7
+  size: 71, 75
+  orig: 307, 250
+  offset: 118, 88
+  index: -1
+shou2
+  rotate: true
+  xy: 1690, 68
+  size: 81, 70
+  orig: 206, 164
+  offset: 61, 47
+  index: -1
+shouzhi
+  rotate: false
+  xy: 221, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 1584, 14
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1010, 12
+  size: 72, 85
+  orig: 186, 209
+  offset: 57, 62
+  index: -1
+wuqi_kanshu/futou1
+  rotate: false
+  xy: 1237, 99
+  size: 122, 133
+  orig: 391, 329
+  offset: 113, 70
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 3
+  size: 136, 31
+  orig: 136, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+tenman.png
+size: 750,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo_tengman
+  rotate: true
+  xy: 344, 2
+  size: 160, 110
+  orig: 268, 171
+  offset: 54, 31
+  index: -1
+jidan_tengman
+  rotate: true
+  xy: 2, 3
+  size: 159, 114
+  orig: 268, 171
+  offset: 54, 29
+  index: -1
+jinbi_tengman
+  rotate: false
+  xy: 570, 46
+  size: 113, 116
+  orig: 268, 171
+  offset: 77, 27
+  index: -1
+muban_tengman
+  rotate: true
+  xy: 456, 5
+  size: 157, 112
+  orig: 268, 171
+  offset: 55, 29
+  index: -1
+shitou_tengman
+  rotate: false
+  xy: 118, 3
+  size: 111, 159
+  orig: 268, 171
+  offset: 78, 6
+  index: -1
+xie_tengman
+  rotate: false
+  xy: 231, 3
+  size: 111, 159
+  orig: 268, 171
+  offset: 78, 6
+  index: -1
+zhauntou_tengman
+  rotate: false
+  xy: 685, 3
+  size: 63, 159
+  orig: 268, 171
+  offset: 100, 6
+  index: -1
